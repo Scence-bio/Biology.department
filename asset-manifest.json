@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Biology.department/static/css/main.c954ff21.css",
-    "main.js": "/Biology.department/static/js/main.d0d2422f.js",
+    "main.css": "/Biology.department/static/css/main.a1eafaae.css",
+    "main.js": "/Biology.department/static/js/main.294411ab.js",
     "static/js/453.fe60cbc5.chunk.js": "/Biology.department/static/js/453.fe60cbc5.chunk.js",
     "index.html": "/Biology.department/index.html",
-    "main.c954ff21.css.map": "/Biology.department/static/css/main.c954ff21.css.map",
-    "main.d0d2422f.js.map": "/Biology.department/static/js/main.d0d2422f.js.map",
+    "main.a1eafaae.css.map": "/Biology.department/static/css/main.a1eafaae.css.map",
+    "main.294411ab.js.map": "/Biology.department/static/js/main.294411ab.js.map",
     "453.fe60cbc5.chunk.js.map": "/Biology.department/static/js/453.fe60cbc5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c954ff21.css",
-    "static/js/main.d0d2422f.js"
+    "static/css/main.a1eafaae.css",
+    "static/js/main.294411ab.js"
   ]
 }
